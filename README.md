@@ -6,7 +6,7 @@
 - 🌱 I’m always learning. I'm always like to meeting new challenges.
 - 2023.09 - now, The University of Hong Kong (HKU), Master of Science in Engineering in Innovative Design and Technology
 - 2019.09 - 2023.06, Beihang University (BUAA), Bachelor in Engineering in Microelectronics Science and Engineering
-- [LeetCode Profile](https://leetcode.com/udklover/ "Caryio's LeetCode") | [HDLBits records](https://hdlbits.01xz.net/wiki/Special:VlgStats/2E0FF3B3E4DAE388 "Caryio's HDLBits records")
+- [LeetCode](https://leetcode.com/udklover/ "Caryio's LeetCode") | [HDLBits stats](https://hdlbits.01xz.net/wiki/Special:VlgStats/2E0FF3B3E4DAE388 "Caryio's HDLBits records")
 
 <p align="left">
 </p>
