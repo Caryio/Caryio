@@ -14,6 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> python | SQL | Verilog | Pandas | TensorFlow | Scikit-learn | PyTorch | Numpy | Matplotlib | OpenCV</p>
 
+<h3 align="left">Projects Pined:</h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caryio&show_icons=true&locale=en&layout=compact" alt="caryio" /></p>
 
 
